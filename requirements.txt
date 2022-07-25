@@ -1,0 +1,5 @@
+tensorflow==2.7.0
+tensorflow-addons==0.15.0
+annoy==1.17.0
+opencv_contrib_python==4.6.0.66
+tf-metric-learning==1.0.12
